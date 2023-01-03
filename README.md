@@ -1,6 +1,6 @@
 # Data_Scientist_Starbucks_Capstone
 
-This project is part of my Data Sciene Nanodegree project by Udacity. There is also a respective blog post on [Medium](link to follow)
+This project is part of my Data Sciene Nanodegree project by Udacity. There is also a respective blog post on [Medium](https://medium.com/@n.van.bracht/boosting-effectiveness-of-promotional-offers-for-starbucks-customers-8f11a86808c0)
 
 ## Libraries
 The developer needs to import the following libraries to run the analysis:
