@@ -31,7 +31,7 @@ The analysis uses the a dataset provided by Starbucks/Udacity. It includes the f
 -	The results seem to be robust regarding parameter tuning.
 -	Only a limited number of features (mainly customer demographic data) seem to be important.
 
-Please check out my [notebook](link to follow) for the detailed findings!
+Please check out my [notebook](https://github.com/nikextens/Data_Scientist_Starbucks_Capstone/blob/main/Starbucks_Capstone_notebook.ipynb) for the detailed findings!
 
 My research is not without limitations. The findings here are observational, not the result of a formal study. 
 - point 1 
