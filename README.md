@@ -26,13 +26,12 @@ The analysis uses the a dataset provided by Starbucks/Udacity. It includes the f
 - **transcript.json**: records for transactions, offers received, offers viewed, and offers completed
 
 ## Result summary
-
-- 
+- point 1
 
 Please check out my [notebook](link to follow) for the detailed findings!
 
 My research is not without limitations. The findings here are observational, not the result of a formal study. 
-- 
+- point 1 
 
 ## Acknowledgments
 I thank Starbucks/Udacity for providing those data!
