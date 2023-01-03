@@ -26,7 +26,10 @@ The analysis uses the a dataset provided by Starbucks/Udacity. It includes the f
 - **transcript.json**: records for transactions, offers received, offers viewed, and offers completed
 
 ## Result summary
-- point 1
+-	An accuracy of 68% of our base model indicates that it is possible to predict the effectiveness of promotional offers with machine learning.
+-	Random forest turns out to be applicable for our binary classification task.
+-	The results seem to be robust regarding parameter tuning.
+-	Only a limited number of features (mainly customer demographic data) seem to be important.
 
 Please check out my [notebook](link to follow) for the detailed findings!
 
