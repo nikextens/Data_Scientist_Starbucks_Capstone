@@ -34,7 +34,9 @@ The analysis uses the a dataset provided by Starbucks/Udacity. It includes the f
 Please check out my [notebook](https://github.com/nikextens/Data_Scientist_Starbucks_Capstone/blob/main/Starbucks_Capstone_notebook.ipynb) for the detailed findings!
 
 My research is not without limitations. The findings here are observational, not the result of a formal study. 
-- point 1 
+- There are entries with missing data (i.e., NaN values) in the customer demographic data, which I drop as a simplification. I would recommend having a second look whether it makes sense to keep those data points and improve the model by also anticipating incomplete information.
+- As we dedicate one part of the result section to feature importance, it also makes sense to not only look at the built-in feature importance but also check Shapley values of the features that sometimes provide additional insights.
+- In a next step, I would conduct a proper hypertuning of the parameters. An effective technique to use is GridSearch
 
 ## Acknowledgments
 I thank Starbucks/Udacity for providing those data!
